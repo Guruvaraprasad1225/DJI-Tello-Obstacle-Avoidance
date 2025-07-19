@@ -1,0 +1,4 @@
+Experiment started at 2024-11-23_22-28-05
+1: Decision to move right with distance 80 at 22:28:16
+2: Decision to move left with distance 40 at 22:28:31
+3: Decision to move left with distance 80 at 22:28:34

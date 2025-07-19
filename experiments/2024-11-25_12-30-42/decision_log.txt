@@ -1,0 +1,19 @@
+Experiment started at 2024-11-25_12-30-42
+1: Decision to move right with distance 40 at 12:31:03
+2: Decision to move right with distance 40 at 12:31:06
+3: Decision to move right with distance 40 at 12:31:07
+4: Decision to move right with distance 40 at 12:31:08
+5: Decision to move right with distance 40 at 12:31:11
+6: Decision to move right with distance 40 at 12:31:21
+7: Decision to move left with distance 40 at 12:31:24
+8: Decision to move left with distance 40 at 12:31:26
+9: Decision to move left with distance 40 at 12:31:29
+10: Decision to move left with distance 40 at 12:31:32
+11: Decision to move left with distance 40 at 12:31:34
+12: Decision to move right with distance 40 at 12:32:12
+13: Decision to move right with distance 80 at 12:32:17
+14: Decision to move left with distance 40 at 12:32:21
+15: Decision to move left with distance 80 at 12:32:41
+16: Decision to move right with distance 80 at 12:32:59
+17: Decision to move left with distance 80 at 12:33:03
+18: Decision to move left with distance 80 at 12:33:06
