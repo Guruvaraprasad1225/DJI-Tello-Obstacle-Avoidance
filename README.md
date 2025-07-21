@@ -55,6 +55,5 @@ This system uses **YOLOv8** for real-time object detection and **DeepOCSORT** fo
 - Drone receives movement commands via `move_drone()`
 - A secondary thread handles `keep_alive()` signals for stable operation
 
-> 📷 *Optional:* Embed a system diagram  
-```markdown
+## 📷 Embed a system diagram  
 ![System Architecture](docs/system_architecture.png)
