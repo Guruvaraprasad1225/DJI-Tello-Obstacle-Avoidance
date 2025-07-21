@@ -15,7 +15,7 @@ Thumbs.db
 
 # Logs and experiment data
 *.log
-data/
+#data/
 data/*.npy
 
 # Video and media files
@@ -24,4 +24,4 @@ data/*.npy
 *.mov
 
 # Model weights (optional)
-models/
+#models/
