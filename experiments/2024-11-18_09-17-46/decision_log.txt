@@ -1,2 +1,0 @@
-Experiment started at 2024-11-18_09-17-46
-1: Decision to move right with distance 80 at 09:18:07
